@@ -1,1 +1,1 @@
-# Movie to watch
+# Movie Rating Web App (popcorn)
