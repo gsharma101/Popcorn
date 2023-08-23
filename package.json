@@ -1,7 +1,7 @@
 {
   "name": "popcorn",
   "version": "0.1.0",
-  "homepage": "gsharma101.github.io/Popcorn/",
+  "homepage": "https://gsharma101.github.io/Popcorn/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
