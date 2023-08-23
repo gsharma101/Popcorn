@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Popcorn/static/css/main.85b516b3.css",
-    "main.js": "/Popcorn/static/js/main.1b428b1c.js",
-    "index.html": "/Popcorn/index.html",
-    "main.85b516b3.css.map": "/Popcorn/static/css/main.85b516b3.css.map",
-    "main.1b428b1c.js.map": "/Popcorn/static/js/main.1b428b1c.js.map"
+    "main.css": "/gsharma101.github.io/Popcorn/static/css/main.266a0f40.css",
+    "main.js": "/gsharma101.github.io/Popcorn/static/js/main.d70c5e21.js",
+    "index.html": "/gsharma101.github.io/Popcorn/index.html",
+    "main.266a0f40.css.map": "/gsharma101.github.io/Popcorn/static/css/main.266a0f40.css.map",
+    "main.d70c5e21.js.map": "/gsharma101.github.io/Popcorn/static/js/main.d70c5e21.js.map"
   },
   "entrypoints": [
-    "static/css/main.85b516b3.css",
-    "static/js/main.1b428b1c.js"
+    "static/css/main.266a0f40.css",
+    "static/js/main.d70c5e21.js"
   ]
 }
